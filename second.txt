@@ -1,5 +1,5 @@
 this is second file
 
-made changes to second.txt
+I made changes to second.txt
 
 Again made the to second.txt
