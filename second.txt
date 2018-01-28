@@ -3,3 +3,5 @@ this is second file
 I made changes to second.txt
 
 Again made the to second.txt
+
+There is something wrong in this file
